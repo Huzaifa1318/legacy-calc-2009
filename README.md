@@ -9,7 +9,7 @@ Project Structure
 - loan.h               : Loan calculation class (Doxygen documented)
 - loan.cpp             : Implementation file (Doxygen documented)
 - main.cpp             : Main program using the Loan class (Doxygen documented)
-- config.txt           : Hard-coded input values for testing
+
 - tests/loan_test.cpp  : GoogleTest unit tests
 - docs/html/index.html : Generated Doxygen documentation
 
