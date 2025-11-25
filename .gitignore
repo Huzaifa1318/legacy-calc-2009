@@ -1,0 +1,20 @@
+# Object files
+*.o
+*.obj
+
+# Executable files
+calc
+*.exe
+*.out
+
+# Backup/editor files
+*~
+*.swp
+*.swo
+
+# Doxygen docs (optional)
+docs/
+
+# VSCode settings (optional)
+.vscode/
+
